@@ -12,6 +12,12 @@
 
 `pnpm add telegraf`
 
+### To run the bot
+`node bot.js` or `nodemon bot.js`
+
+Hit `ctrl+c` to kill the process
+
+
 Get to know More on Telegraf.js [Here](https://telegraf.js.org/)
 
 ---
